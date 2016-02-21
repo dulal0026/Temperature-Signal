@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4623A0918ED03AC6E2B2244A75F822A025691417",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF39EA17B5CA1B40E00E231F7A88CFCA9B34A223" : 0,
+    "4623A0918ED03AC6E2B2244A75F822A025691417" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9EDE677-D8B8-4BCB-9258-43E597F01ADE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF39EA17B5CA1B40E00E231F7A88CFCA9B34A223" : "..",
+    "4623A0918ED03AC6E2B2244A75F822A025691417" : "Demo%20Project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo Project",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo Project.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dulal0026\/Temperature-Signal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4623A0918ED03AC6E2B2244A75F822A025691417"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Swizzlefm\/Swizzle_Tube.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF39EA17B5CA1B40E00E231F7A88CFCA9B34A223"
+    }
+  ]
+}
